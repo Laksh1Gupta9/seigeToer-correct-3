@@ -133,8 +133,6 @@ function draw(){
 
     hitobject.display();
     sling.display();
-
-    console.log(gameState);
 }
 
 function mouseDragged(){
